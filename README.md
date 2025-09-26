@@ -1,0 +1,2 @@
+# wallex-bot
+tride bot
